@@ -1,5 +1,4 @@
 <h1 align="center">Hey there 👋, I'm Mohamed Aziz Ouertatani</h1>
-<h3 align="center">-----------------------------------------</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/96556526/227791594-b1d2035d-885b-4e41-9a87-3e78d565126b.png">
 
 <p>- 📫 How to reach me <b>ouertatanimohamedaziz@gmail.com</b></p>
